@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Lautaro Orellano
+#👋 Soy Lautaro Orellano
 
-Soy programador backend y amante de la tecnología. Aquí te cuento un poco sobre mí y mis herramientas favoritas.
+Soy programador en formacion backend y amante de la tecnología. Te hago un breve resumen sobre mí y mis herramientas favoritas.
 
 ---
 
@@ -16,8 +16,8 @@ Soy programador backend y amante de la tecnología. Aquí te cuento un poco sobr
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LautaroOrellano)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautaroorellanodev@gmail.com)
 
 ---
 

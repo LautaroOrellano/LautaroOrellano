@@ -1,16 +1,39 @@
-#👋 Soy Lautaro Orellano
-
-Soy programador en formacion backend y amante de la tecnología. Te hago un breve resumen sobre mí y mis herramientas favoritas.
+<h1 align="center">Hola, soy Lautaro 👋</h1>
+<p align="center">
+  Backend Developer | Apasionado por la tecnología y la innovación
+</p>
 
 ---
 
-## Tecnologías y herramientas
+### 🧠 Sobre mí
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 Estudiante de la Tecnicatura Universitaria en Programación
+- 🛠️ Actualmente trabajando en **KeyLab**, un proyecto personal de venta de teclados custom
+- 🔍 En búsqueda de oportunidades para aplicar mis habilidades en el desarrollo de software
+- 💡 Interesado en backend, bases de datos, APIs REST, JWT y arquitectura de software
+
+---
+
+### 🧰 Tecnologías que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LautaroOrellano&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroOrellano&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+---
 
 ---
 

@@ -24,8 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/LautaroOrellano/assets/main/swagger-icon.svg" height="40" alt="Swagger"/>
-  <img src="https://raw.githubusercontent.com/LautaroOrellano/assets/main/insomnia-icon.svg" height="40" alt="Insomnia"/>
+  <img src="assets/swagger.svg" height="40" alt="Swagger"/>
+  <img src="assets/insomnia.svg" height="40" alt="Insomnia"/>
 </p>
 
 ---

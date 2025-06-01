@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/LautaroOrellano/assets/main/swagger-icon.svg" height="40" alt="Swagger"/>
+  <img src="https://raw.githubusercontent.com/LautaroOrellano/assets/main/insomnia-icon.svg" height="40" alt="Insomnia"/>
 </p>
 
 ---
@@ -40,6 +44,6 @@
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/LautaroOrellano)
-- 📬 Email: tuemail@example.com
+- 📬 Email: LautaroOrellanoDev@gmail.com
 
 

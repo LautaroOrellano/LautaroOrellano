@@ -37,13 +37,9 @@
 
 ---
 
-## Contacto
+### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LautaroOrellano)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautaroorellanodev@gmail.com)
-
----
-
-![Perfil GitHub stats](https://github-readme-stats.vercel.app/api?username=LautaroOrellano&show_icons=true&theme=radical)
+- 💼 [LinkedIn](https://www.linkedin.com/in/LautaroOrellano)
+- 📬 Email: tuemail@example.com
 
 

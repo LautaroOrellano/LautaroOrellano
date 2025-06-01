@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Lautaro 👋</h1>
 <p align="center">
-  Backend Developer | Apasionado por la tecnología y la innovación
+  Backend Developer | Apasionado por la tecnología y la innovació
 </p>
 
 ---

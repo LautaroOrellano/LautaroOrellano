@@ -7,14 +7,13 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante de la Tecnicatura Universitaria en Programación
+- 🎓 Estudiante en la Universidad Tecnológica Nacional de Mar del Plata - Técnico  en programación
 - 🛠️ Actualmente trabajando en **KeyLab**, un proyecto personal de venta de teclados custom
-- 🔍 En búsqueda de oportunidades para aplicar mis habilidades en el desarrollo de software
 - 💡 Interesado en backend, bases de datos, APIs REST, JWT y arquitectura de software
 
 ---
 
-### 🧰 Tecnologías que uso
+### 🧰 Tecnologías que implento
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>

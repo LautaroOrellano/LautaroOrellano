@@ -29,7 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
   <img src="assets/swagger.svg" height="40" alt="Swagger"/>
   <img src="assets/insomnia.svg" height="40" alt="Insomnia"/>
-  ![Logo de Quarkus](./assets/quarkus-logo.svg)
+  <img src="assets/quarkus.svg" height="40" alt="Quarkus"/>
+  
 </p>
 
 ---

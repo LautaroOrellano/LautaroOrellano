@@ -8,8 +8,8 @@
 ### 🧠 Sobre mí
 
 - 🎓 Estudiante en la Universidad Tecnológica Nacional de Mar del Plata - Técnico  en programación
-- 🛠️ Actualmente desarrollando **KeyLab**, una API Rest en java (Spring Boot) para un e-commerce de teclados custom, con enfoque en la gestión integral de productos, usuarios y pedidos.
-- 💡 Enfocado en el desarrollo backend de soluciones escalables, orientadas a múltiples usuarios y pensadas para crecer de forma sostenida en el tiempo.
+- 🛠️ Actualmente desarrollando **KeyLab**, una API Rest en java (Spring Boot) para un e-commerce de teclados custom.
+- 💡 Enfocado en el desarrollo backend de soluciones escalables, orientadas a múltiples usuarios y pensadas para crecer.
 
 ---
 

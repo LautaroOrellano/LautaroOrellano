@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Lautaro 👋</h1>
 <p align="center">
-  Backend Developer | Apasionado por la tecnología y la innovación
+  Backend Developer | Apasionado por la tecnología y en crear soluciones
 </p>
 
 ---
@@ -8,8 +8,8 @@
 ### 🧠 Sobre mí
 
 - 🎓 Estudiante en la Universidad Tecnológica Nacional de Mar del Plata - Técnico  en programación
-- 🛠️ Actualmente trabajando en **KeyLab**, un proyecto personal de venta de teclados custom
-- 💡 Interesado en backend, bases de datos, APIs REST, JWT y arquitectura de software
+- 🛠️ Actualmente desarrollando **KeyLab**, una API Rest en java (Spring Boot) para un e-commerce de teclados custom, con enfoque en la gestión integral de productos, usuarios y pedidos.
+- 💡 Enfocado en el desarrollo backend de soluciones escalables, orientadas a múltiples usuarios y pensadas para crecer de forma sostenida en el tiempo.
 
 ---
 

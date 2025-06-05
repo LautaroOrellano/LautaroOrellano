@@ -27,10 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
-  <img src="https://logo.svgcdn.com/l/quarkus-original.svg" height="40" alt="Quarkus"/>
   <img src="assets/swagger.svg" height="40" alt="Swagger"/>
   <img src="assets/insomnia.svg" height="40" alt="Insomnia"/>
-  <img src="assets/quarkus.svg" height="40" alt="Quarkus"/>
+  ![Logo de Quarkus](./assets/quarkus-logo.svg)
 </p>
 
 ---

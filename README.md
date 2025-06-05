@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Quarkus_logo_2022.svg" height="40" alt="Quarkus"/>
   <img src="assets/swagger.svg" height="40" alt="Swagger"/>
   <img src="assets/insomnia.svg" height="40" alt="Insomnia"/>
 </p>

@@ -45,6 +45,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/LautaroOrellano)
 - 📬 Email: LautaroOrellanoDev@gmail.com
 
-![Profile views](https://komarev.com/ghpvc/?username=LautaroOrellano&color=redblack&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=LautaroOrellano&color=redviolet&style=plastic)
 
 

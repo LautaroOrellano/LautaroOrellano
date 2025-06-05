@@ -13,7 +13,7 @@
 
 ---
 
-### 🧰 Tecnologías que implento
+### 🧰 Tecnologías que domino
 
 <p align="left">
   
@@ -33,7 +33,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 
-**🧪 Testing y APIs**
+**🧪 Testing y herramientas para APIs**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/><img src="assets/swagger.svg" height="40" alt="Swagger"/><img src="assets/insomnia.svg" height="40" alt="Insomnia"/>
 

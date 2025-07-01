@@ -35,7 +35,7 @@
 
 **🧪 Testing y herramientas para APIs**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/><img src="assets/swagger.svg" height="40" alt="Swagger"/><img src="assets/insomnia.svg" height="40" alt="Insomnia"/><img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1667927094/Brand%20Guidelines/Cloudinary_Logomark_White-Small_fkopld.svg" height="40" alt="Cloudinary"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/><img src="assets/swagger.svg" height="40" alt="Swagger"/><img src="assets/insomnia.svg" height="40" alt="Insomnia"/><img src="https://raw.githubusercontent.com/CloudinaryLtd/cloudinary_npm/main/logo/svg/CloudinaryLogo.svg" height="40" alt="Cloudinary"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render.svg" height="40" alt="Render"/>
 </p>
 

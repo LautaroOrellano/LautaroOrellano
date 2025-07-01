@@ -19,7 +19,7 @@
   
 **🎨 Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
   
 **🧠 Backend**
 
@@ -35,8 +35,8 @@
 
 **🧪 Testing y herramientas para APIs**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/><img src="assets/swagger.svg" height="40" alt="Swagger"/><img src="assets/insomnia.svg" height="40" alt="Insomnia"/><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudinary.svg" height="40" alt="Cloudinary"/><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" height="40" alt="Render"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/><img src="assets/swagger.svg" height="40" alt="Swagger"/><img src="assets/insomnia.svg" height="40" alt="Insomnia"/><img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1667927094/Brand%20Guidelines/Cloudinary_Logomark_White-Small_fkopld.svg" height="40" alt="Cloudinary"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render.svg" height="40" alt="Render"/>
 </p>
 
 ---

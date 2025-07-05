@@ -43,8 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroOrellano&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroOrellano&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LautaroOrellano&show_icons=true&theme=github_dark" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroOrellano&layout=compact&theme=github_dark" height="40"/>
 </p>
 
 ---

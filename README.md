@@ -1,13 +1,12 @@
-# Proyectos principales
-
-**[LegitProof](https://github.com/LautaroOrellano/legitproof)**  
-Sistema de validación automatizada de comprobantes de transferencia bancaria.  
-Incluye OCR, lógica de negocio adaptable y control documental.
+# Sistemas en producción y en desarrollo
 
 **[KeyLab](https://github.com/LautaroOrellano/keylab)**  
-API REST para e-commerce de teclados custom.  
-Autenticación JWT, roles, carrito, catálogo y despliegue en la nube.
+E-commerce modular desarrollado con Java y Spring Boot.  
+Incluye autenticación con JWT, control de acceso por roles, lógica de carrito, gestión de productos y despliegue en la nube.  
+Disponible en producción: [keylab.vercel.app](https://keylab.vercel.app)
+
+**Sistema en desarrollo con OCR y análisis inteligente**  
+Actualmente diseñando una solución backend para la automatización y validación de documentos, combinando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.
 
 ---
-Construyendo soluciones reales, listas para producción.
-
+Construyendo soluciones reales, funcionales y listas para producción.

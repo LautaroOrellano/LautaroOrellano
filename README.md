@@ -1,62 +1,69 @@
-<h1 align="center">Hola, soy Lautaro 👋</h1>
+<h1 align="center">Lautaro Orellano</h1>
 <p align="center">
-  Backend Developer | Apasionado por la tecnología y en crear soluciones
+  <strong>Desarrollador Backend</strong> | Java · Spring Boot · Sistemas escalables y seguros
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante en la Universidad Tecnológica Nacional de Mar del Plata - Técnico  en programación
-- 🛠️ Actualmente desarrollando **KeyLab**, una API Rest en java (Spring Boot) para un e-commerce de teclados custom.
-- 💡 Enfocado en el desarrollo backend de soluciones escalables, orientadas a múltiples usuarios y pensadas para crecer.
+Soy desarrollador backend con foco en construir sistemas funcionales, seguros y listos para producción. Actualmente desarrollo **KeyLab**, una API REST en Java con Spring Boot para un e-commerce de teclados custom, con autenticación JWT, control de acceso por roles, gestión de productos y lógica de carrito.
+
+Trabajo con una base sólida en Java, arquitectura limpia, control de versiones, buenas prácticas y despliegue en la nube.  
+Paralelamente, diseño un sistema propio que combina OCR, validación de datos y gestión documental para automatizar procesos de validación bancaria (DMS + AI).
 
 ---
 
-### 🧰 Tecnologías que domino
+### 🛠️ Stack y herramientas
 
-<p align="left">
-  
-**🎨 Frontend**
+#### 🧩 Backend
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg){:height="40"}&nbsp;
+![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg){:height="40"}&nbsp;
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg){:height="40"}&nbsp;
+<img src="assets/quarkus.svg" height="40" alt="Quarkus"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;" alt="JavaScript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px;" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px;" alt="React"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="height:40px;" alt="Tailwind CSS"/>
-  
-**🧠 Backend**
+#### 🖥️ Frontend
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){:height="40"}&nbsp;
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg){:height="40"}&nbsp;
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){:height="40"}&nbsp;
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){:height="40"}&nbsp;
+![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg){:height="40"}&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px;" alt="C"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px;" alt="Java"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:40px;" alt="Spring Boot"/><img src="assets/quarkus.svg" style="height:40px;" alt="Quarkus"/>
+#### 🗄️ Bases de Datos
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){:height="40"}&nbsp;
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg){:height="40"}&nbsp;
+![Supabase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg){:height="40"}&nbsp;
 
-**💾 Base de Datos**
+#### 🧪 Testing & APIs
+![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg){:height="40"}&nbsp;
+<img src="assets/swagger.svg" height="40" alt="Swagger"/>&nbsp;
+<img src="assets/insomnia.svg" height="40" alt="Insomnia"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px;" alt="MySQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:40px;" alt="PostgreSQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="height:40px;" alt="Supabase"/>
+#### 🐳 DevOps & Cloud
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg){:height="40"}&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render.svg" height="40" alt="Render"/>
 
-**🧾 Versionado**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;" alt="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:40px;" alt="GitHub"/>
-
-**🧪 Testing y herramientas para APIs**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px;" alt="Docker"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="height:40px;" alt="Postman"/><img src="assets/swagger.svg" style="height:40px;" alt="Swagger"/><img src="assets/insomnia.svg" style="height:40px;" alt="Insomnia"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render.svg" style="height:40px;" alt="Render"/>
-</p>
-
+#### 🧾 Versionado
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg){:height="40"}&nbsp;
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg){:height="40"}&nbsp;
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroOrellano&show_icons=true&theme=github_dark" style="height:190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroOrellano&layout=compact&theme=github_dark" style="height:190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LautaroOrellano&show_icons=true&theme=github_dark" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroOrellano&layout=compact&theme=github_dark" height="190"/>
 </p>
 
 ---
 
----
+### 📬 Contacto
 
-### 📫 Contacto
+- 🔗 [LinkedIn](https://www.linkedin.com/in/LautaroOrellano)
+- 📫 Email: LautaroOrellanoDev@gmail.com
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/LautaroOrellano)
-- 📬 Email: LautaroOrellanoDev@gmail.com
-
-![Profile views](https://komarev.com/ghpvc/?username=LautaroOrellano&color=blueviolet&style=plastic)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LautaroOrellano&color=blueviolet&style=plastic" alt="Profile views"/>
+</p>
 

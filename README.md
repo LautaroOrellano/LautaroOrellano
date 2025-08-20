@@ -6,7 +6,7 @@ Incluye autenticación con JWT, control de acceso por roles, lógica de carrito,
 Disponible públicamente: [key-lab.vercel.app](https://key-lab.vercel.app)
 
 **Sistema en desarrollo con OCR y análisis inteligente**  
-Actualmente diseñando una solución backend para la automatización y validación de documentos, combinando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.
+Actualmente diseñando una solución para la automatización y validación de documentos, combinando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.
 
 ---
 Construyendo soluciones reales, funcionales y listas para producción.

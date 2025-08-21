@@ -3,7 +3,7 @@
 **[KeyLab](https://github.com/LautaroOrellano/keylab)**  
 Plataforma e-commerce modular, desarrollada con arquitectura robusta basada en Java y Spring Boot, complementada con un frontend moderno construido en JavaScript, React y Tailwind CSS.   
 Incluye autenticación con JWT, control de acceso por roles, lógica de carrito, gestión de productos y despliegue en la nube.  
-Disponible públicamente: [keylab.com.ar](https://keylab.com.ar)
+Disponible públicamente: [keylabtech.com.ar](https://keylabtech.com.ar)
 
 **Sistema en desarrollo con OCR y análisis inteligente**  
 Actualmente diseñando una solución para la automatización y validación de documentos, combinando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.

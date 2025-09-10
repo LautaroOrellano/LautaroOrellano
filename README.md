@@ -1,7 +1,7 @@
 # Sistemas en producción y en desarrollo
 
 **[KeyLab](https://github.com/LautaroOrellano/keylab)**  
-Plataforma e-commerce modular, desarrollada con arquitectura robusta basada en Java y Spring Boot, complementada con un frontend moderno construido en JavaScript, React y Tailwind CSS.   
+Plataforma e-commerce modular, desarrollada con arquitectura basada en Java y Spring Boot, complementada con un frontend moderno construido en JavaScript, React y Tailwind CSS.   
 Incluye autenticación con JWT, control de acceso por roles, lógica de carrito, gestión de productos y despliegue en la nube.  
 Disponible públicamente: [keylabtech.com.ar](https://keylabtech.com.ar)
 

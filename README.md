@@ -9,4 +9,4 @@ Disponible públicamente: [keylabtech.com.ar](https://keylabtech.com.ar)
 Actualmente diseñando una solución para la automatización y validación de documentos, combinando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.
 
 ---
-Construyendo soluciones reales, funcionales y listas para producción.
+Construyendo soluciones reales, funcionales y escalables.

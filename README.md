@@ -8,9 +8,10 @@ Incluye:</br>
   -Autenticación JWT y control de acceso basado en roles.</br>
   -Carrito de compras, gestión de productos y pedidos.</br>
   -Pasarela de pagos.</br>
+  -Panel de admin.</br>
   -Despliegue en la nube para alta disponibilidad.</br>
   
-Disponible en: [keylabtech.com.ar](https://keylabtech.com.ar)
+MVP Disponible en: [keylabtech.com.ar](https://keylabtech.com.ar)
 
 ---
 ### **Sistema con OCR y análisis inteligente** | (En desarrollo)

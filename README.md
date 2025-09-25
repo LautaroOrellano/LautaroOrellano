@@ -23,5 +23,7 @@ Actualmente en fase de validación y desarrollo del MVP.
 ### **LoganAlyzr** | (En desarrollo)
 Herramienta en desarrollo para monitoreo y análisis de logs, </br>
 diseñada para escalar a entornos de producción.</br>
-LoganAlyzr ofrece parsing de archivos, filtros avanzados y paginación para facilitar</br>
-la exploración y depuración de grandes volúmenes de registros.</br>
+Incluye:
+
+-Parsing de archivos, búsqueda avanzada.
+-Filtros combinados y paginación para facilitar la exploración y depuración de grandes volúmenes de registros.

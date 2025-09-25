@@ -4,13 +4,10 @@
 Plataforma e-commerce modular desarrollada con **Java + Spring Boot**, integrada con un frontend moderno en **React y Tailwind CSS**.
 Incluye:
 
-Autenticación JWT y control de acceso basado en roles.
-
-Carrito de compras, gestión de productos y pedidos.
-
-Pasarela de pagos.
-
-Despliegue en la nube para alta disponibilidad. 
+-Autenticación JWT y control de acceso basado en roles.
+-Carrito de compras, gestión de productos y pedidos.
+-Pasarela de pagos.
+-Despliegue en la nube para alta disponibilidad. 
 
 Disponible en: [keylabtech.com.ar](https://keylabtech.com.ar)
 

@@ -1,9 +1,18 @@
 # Sistemas en producción y en desarrollo
 
-**[KeyLab](https://github.com/LautaroOrellano/keylab)**  
-Plataforma e-commerce modular, desarrollada con arquitectura basada en Java y Spring Boot, complementada con un frontend moderno construido en JavaScript, React y Tailwind CSS.   
-Incluye autenticación con JWT, control de acceso por roles, lógica de carrito, gestión de productos y despliegue en la nube.  
-Disponible públicamente: [keylabtech.com.ar](https://keylabtech.com.ar)
+**[KeyLab](https://keylabtech.com.ar/contact)**  
+Plataforma e-commerce modular desarrollada con **Java + Spring Boot**, integrada con un frontend moderno en **React y Tailwind CSS**.
+Incluye:
+
+Autenticación JWT y control de acceso basado en roles.
+
+Carrito de compras, gestión de productos y pedidos.
+
+Pasarela de pagos.
+
+Despliegue en la nube para alta disponibilidad. 
+
+Disponible en: [keylabtech.com.ar](https://keylabtech.com.ar)
 
 **Sistema en desarrollo con OCR y análisis inteligente**  
 Actualmente diseñando una solución para la automatización y validación de documentos, combinando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.

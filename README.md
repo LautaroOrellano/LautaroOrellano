@@ -3,7 +3,7 @@
 ### **[KeyLab](https://keylabtech.com.ar/contact)** | (En producción) 
 Plataforma e-commerce modular desarrollada con **Java + Spring Boot**,</br> 
 integrada con un frontend moderno en **React y Tailwind CSS**.</br> 
-Incluye:</br> 
+Incluye:
 
   -Autenticación JWT y control de acceso basado en roles.</br>
   -Carrito de compras, gestión de productos y pedidos.</br>
@@ -25,5 +25,5 @@ Herramienta en desarrollo para monitoreo y análisis de logs, </br>
 diseñada para escalar a entornos de producción.</br>
 Incluye:
 
--Parsing de archivos, búsqueda avanzada.
+-Parsing de archivos, búsqueda avanzada.</br> 
 -Filtros combinados y paginación para facilitar la exploración y depuración de grandes volúmenes de registros.

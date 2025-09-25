@@ -1,7 +1,6 @@
 # Sistemas en producción y en desarrollo
 
-**[KeyLab](https://keylabtech.com.ar/contact)** 
-
+**#[KeyLab](https://keylabtech.com.ar/contact)**(En producción)
 Plataforma e-commerce modular desarrollada con **Java + Spring Boot**,</br> 
 integrada con un frontend moderno en **React y Tailwind CSS**.
 Incluye:
@@ -13,8 +12,7 @@ Incluye:
 
 Disponible en: [keylabtech.com.ar](https://keylabtech.com.ar)
 
-**Sistema en desarrollo con OCR y análisis inteligente**
-
+**#Sistema con OCR y análisis inteligente**(En desarrollo)
 Solución para la automatización y validación de documentos,</br> 
 integrando OCR, control de flujo y lógica de negocio adaptable a procesos bancarios.</br>
 Actualmente en fase de validación y desarrollo del MVP.
